@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tiktok_app/constants.dart';
+import 'package:tiktok_application/constants.dart';
 import '../../widgets/text_input_field.dart';
 
 class SignupScreen extends StatelessWidget {
