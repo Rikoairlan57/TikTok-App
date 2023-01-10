@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tiktok_app/constants.dart';
+import 'package:tiktok_application/constants.dart';
 
 class TextInputField extends StatelessWidget {
   final TextEditingController controller;
