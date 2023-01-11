@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCtUVgJJWJ-qLhi1NbS-bX6VoB2jhgNUj4',
-    appId: '1:908723621567:android:b97277ade6a94e2be9800a',
+    appId: '1:908723621567:android:8cb3aab972bcc5b2e9800a',
     messagingSenderId: '908723621567',
     projectId: 'tiktok-app-5ef35',
     storageBucket: 'tiktok-app-5ef35.appspot.com',
@@ -59,11 +59,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCHXiH_37QzjdYmq-cLkXg47_lViD9va8w',
-    appId: '1:908723621567:ios:08df67ecbe5c8d62e9800a',
+    appId: '1:908723621567:ios:09e5b3957c281d29e9800a',
     messagingSenderId: '908723621567',
     projectId: 'tiktok-app-5ef35',
     storageBucket: 'tiktok-app-5ef35.appspot.com',
-    iosClientId: '908723621567-3vrcudsvu62r4lgdgrr5rgp7mippq5lc.apps.googleusercontent.com',
-    iosBundleId: 'com.example.tiktokApplication',
+    iosClientId: '908723621567-9jsdbkk957tf2p80jsh6dof9fnr7uj1k.apps.googleusercontent.com',
+    iosBundleId: 'com.example.tiktokTutorial',
   );
 }
