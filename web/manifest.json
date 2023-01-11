@@ -1,6 +1,6 @@
 {
-    "name": "tiktok_application",
-    "short_name": "tiktok_application",
+    "name": "tiktok_tutorial",
+    "short_name": "tiktok_tutorial",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
