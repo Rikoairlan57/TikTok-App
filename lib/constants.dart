@@ -4,6 +4,10 @@ import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:tiktok_application/controllers/auth_controller.dart';
 
+List pages = [
+  Text('Messages Screen'),
+];
+
 // COLORS
 const backgroundColor = Colors.black;
 var buttonColor = Colors.red[400];
