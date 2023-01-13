@@ -9,14 +9,15 @@ class Comment {
   String uid;
   String id;
 
-  Comment(
-      {required this.username,
-      required this.comment,
-      required this.datePublished,
-      required this.likes,
-      required this.profilePhoto,
-      required this.uid,
-      required this.id});
+  Comment({
+    required this.username,
+    required this.comment,
+    required this.datePublished,
+    required this.likes,
+    required this.profilePhoto,
+    required this.uid,
+    required this.id,
+  });
 
   Map<String, dynamic> toJson() => {
         'username': username,
