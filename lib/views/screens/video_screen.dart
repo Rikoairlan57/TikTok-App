@@ -3,7 +3,7 @@ import 'package:tiktok_application/constants.dart';
 import 'package:tiktok_application/controllers/video_controller.dart';
 import 'package:tiktok_application/views/screens/comment_screen.dart';
 import 'package:tiktok_application/views/widgets/circle_animation.dart';
-import 'package:tiktok_application/views/widgets/video_player_item.dart';
+import 'package:tiktok_application/views/widgets/video_player_iten.dart';
 import 'package:video_player/video_player.dart';
 import 'package:get/get.dart';
 
